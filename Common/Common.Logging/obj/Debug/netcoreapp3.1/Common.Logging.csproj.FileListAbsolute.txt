@@ -1,0 +1,9 @@
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.deps.json
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.pdb
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.csprojAssemblyReference.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.AssemblyInfoInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.AssemblyInfo.cs
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.csproj.CoreCompileInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Common\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.pdb

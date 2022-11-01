@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj": {}
+  },
+  "projects": {
+    "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj",
+        "projectName": "Catalog.Common",
+        "projectPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj",
+        "packagesPath": "C:\\Users\\lenin\\.nuget\\packages\\",
+        "outputPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
+        "projectName": "Catalog.Domain",
+        "projectPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\lenin\\.nuget\\packages\\",
+        "outputPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Persistence.DataBase\\Catalog.Persistence.DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Persistence.DataBase\\Catalog.Persistence.DataBase.csproj",
+        "projectName": "Catalog.Persistence.DataBase",
+        "projectPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Persistence.DataBase\\Catalog.Persistence.DataBase.csproj",
+        "packagesPath": "C:\\Users\\lenin\\.nuget\\packages\\",
+        "outputPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Persistence.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj": {
+                "projectPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj",
+        "projectName": "Catalog.Service.EventHandlers",
+        "projectPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj",
+        "packagesPath": "C:\\Users\\lenin\\.nuget\\packages\\",
+        "outputPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Service.EventHandlers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj": {
+                "projectPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj"
+              },
+              "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Persistence.DataBase\\Catalog.Persistence.DataBase.csproj": {
+                "projectPath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Services\\Catalog\\Catalog.Persistence.DataBase\\Catalog.Persistence.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

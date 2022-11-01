@@ -1,0 +1,9 @@
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csprojAssemblyReference.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb

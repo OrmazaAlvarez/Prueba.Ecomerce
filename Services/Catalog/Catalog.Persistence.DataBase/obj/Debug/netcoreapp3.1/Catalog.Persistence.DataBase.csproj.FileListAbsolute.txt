@@ -1,0 +1,12 @@
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.deps.json
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.pdb
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.csprojAssemblyReference.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.AssemblyInfoInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.AssemblyInfo.cs
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.csproj.CoreCompileInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.csproj.CopyComplete
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Catalog.Persistence.DataBase\obj\Debug\netcoreapp3.1\Catalog.Persistence.DataBase.pdb

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "onkw/CMhOXxB7e9ht4PzU3V31FS8/vAkUq7oKXp2XUyWsONhaZbEfYJdRZ7AhbxWwy5TZsYxewmuiCc9izOONg==",
+  "success": true,
+  "projectFilePath": "F:\\Cursos\\pruebastrabajo\\inpsercom\\Prueba.Ecomerce\\Common\\Common.Logging\\Common.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.14\\microsoft.extensions.configuration.3.1.14.nupkg.sha512",
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.14\\microsoft.extensions.configuration.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.14\\microsoft.extensions.configuration.binder.3.1.14.nupkg.sha512",
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.14\\microsoft.extensions.dependencyinjection.3.1.14.nupkg.sha512",
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.14\\microsoft.extensions.dependencyinjection.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.logging\\3.1.14\\microsoft.extensions.logging.3.1.14.nupkg.sha512",
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.14\\microsoft.extensions.logging.abstractions.3.1.14.nupkg.sha512",
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.options\\3.1.14\\microsoft.extensions.options.3.1.14.nupkg.sha512",
+    "C:\\Users\\lenin\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.14\\microsoft.extensions.primitives.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

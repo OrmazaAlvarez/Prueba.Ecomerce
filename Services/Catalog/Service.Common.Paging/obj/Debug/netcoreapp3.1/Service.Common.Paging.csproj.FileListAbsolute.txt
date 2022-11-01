@@ -1,0 +1,12 @@
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csprojAssemblyReference.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb

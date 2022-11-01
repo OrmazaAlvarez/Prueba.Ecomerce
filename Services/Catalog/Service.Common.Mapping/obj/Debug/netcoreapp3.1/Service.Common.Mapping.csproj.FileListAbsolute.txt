@@ -1,0 +1,9 @@
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.deps.json
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.pdb
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csprojAssemblyReference.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.AssemblyInfoInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.AssemblyInfo.cs
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csproj.CoreCompileInputs.cache
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.dll
+F:\Cursos\pruebastrabajo\inpsercom\Prueba.Ecomerce\Services\Catalog\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.pdb
