@@ -1,0 +1,69 @@
+.Content {
+    width: 70%;
+    float: left;
+    min-height: 400px;
+}
+
+.Content h1 {
+    font-size: 25px;
+    border-bottom: 1px solid #eee;
+}
+
+.article-item {
+    width: 100%;
+    margin: auto;
+    border-bottom: 1px solid #eee;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image-wrap {
+    height: 0px;
+    width: 70%;
+    padding-top: 56.25%;
+    position: relative;
+    overflow: hidden;
+    float: left;
+    margin-right: 15px;
+    border: 1px solid #eee;
+}
+
+.image-wrap img {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 0px;
+    left: 0px;
+}
+
+.info-image {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.info-image h2 {
+    display: block;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+.info-image a {
+    display: block;
+    font-size: 10px;
+    color: #444;
+    text-decoration: none;
+    margin-top: 1px;
+}
+
+.info-image a:hover {
+    color: #2a97bb;
+    font-weight: bold;
+}
+
+.date {
+    display: block;
+    width: 100%;
+    color: rgb(122, 122, 122);
+}

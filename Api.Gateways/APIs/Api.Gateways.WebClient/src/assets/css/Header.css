@@ -1,0 +1,67 @@
+.Header {
+    height: 65px;
+    width: 100%;
+    background: white;
+    border-bottom: 1px solid #ccc;
+    border-top: 5px solid #61dafb;
+  }
+  
+  .Header-logo {
+    width: 30%;
+    font-size: 30px;
+    float: left;
+  }
+  .Header-logo img{
+    display: block;
+    float: left;
+    height: 60px;
+    animation: App-logo-spin infinite 20s linear;
+  }
+
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  #Header-brand {
+    display: block;
+    margin-left: -10px;
+    margin-top: 8px;
+    float: left;
+  }
+  
+  .Header-menu {
+    width: 70%;
+    float: right;
+    font-size: 18px;
+  }
+  
+  .active {
+    border-bottom: 2px solid #3cb2d3;
+  }
+
+  .Header-menu ul{
+    line-height: 30px;
+    width: 60%;
+    float: right;
+  }
+  
+  .Header-menu ul li{
+    display: inline-block;
+    list-style: none;
+    height: 28px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  
+  .Header-menu ul li a{
+    text-decoration: none;
+    color: #444;
+    transition: 300ms all;
+  }.Header-menu ul li a:hover {
+    color: #1bacd4;
+  }
